@@ -1,14 +1,14 @@
-# DataStructureiOS
+# Data Structure iOS using Swift Lang
  this repo is explaining Data structure and algorithms by using Swift Language
  
  
- # Stack 
+ ## Stack 
  
-### A stack is a LIFO, last-in first-out, data structure.
+### - A stack is a LIFO, last-in first-out, data structure.
 
-### Despite being so simple, the stack is a key data structure for many problems.
+### - Despite being so simple, the stack is a key data structure for many problems.
 
-### The only two essential operations for the stack are the push method for adding elements and the pop method for removing elements.
+### - The only two essential operations for the stack are the push method for adding elements and the pop method for removing elements.
 
 
 # --------------------------------------------------------------------------------------------------------------------------------------- 
